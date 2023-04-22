@@ -1,3 +1,3 @@
-print ('Hello Word')
+print ('Hello World')
 
-print ('This is for using ')
+print ('My name is Derek')
