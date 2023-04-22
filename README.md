@@ -9,7 +9,7 @@ code.
 
 The purpose of this is to demonstrate a simple line code and show that programming is a lot easier than it looks.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Here is a short video on how to write a basic program in the Python Language
 
 [Software Demo Video](https://www.youtube.com/watch?v=ZeccNk0lYpM)
 
