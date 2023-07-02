@@ -6,7 +6,7 @@ This is a program that uses a database from mongodb to store, retieve, and add i
 This a practice using a database to gain experience and test out different ways of storing data.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tGciL9h-M14)
 
 # Cloud Database
 
@@ -24,8 +24,8 @@ JavaScript and JSON were the only programming languages used.
 # Useful Websites
 
 
-- [MongoDB University](http://url.link.goes.here)
-- [w3 Schools](http://url.link.goes.here)
+- [MongoDB University](https://learn.mongodb.com/)
+- [w3 Schools](w3schools.com/js/DEFAULT.asp)
 
 # Future Work
 
