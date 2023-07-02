@@ -103,12 +103,12 @@ public class TicTacToeGUI extends JFrame implements ActionListener {
             statusLabel.setText("Player " + currentPlayer + " wins!");
             disableButtons();
         } else if (isBoardFull()) {
-            statusLabel.setText("It's a tie!");
+            statusLabel.setText("Draw");
         } else {
             changePlayer();
         }
     }
-
+    
     public void actionPerformed(ActionEvent e) {
         JButton button = (JButton) e.getSource();
 
